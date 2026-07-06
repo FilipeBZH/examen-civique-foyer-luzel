@@ -1,0 +1,16 @@
+{
+  "name": "Foyer Luzel - Examen civique",
+  "short_name": "Civique FL",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#2563eb",
+  "description": "Application d'entraînement à l'examen civique sur tablette",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
